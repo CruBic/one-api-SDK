@@ -1,0 +1,25 @@
+{
+  "name": "artem-brusnik-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruBic/artem_brusnik-SDK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CruBic/artem_brusnik-SDK/issues"
+  },
+  "homepage": "https://github.com/CruBic/artem_brusnik-SDK#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
